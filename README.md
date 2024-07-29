@@ -1,12 +1,12 @@
-# AKS068 keyboard VIA config files
+# AKS068 keyboard VIA programming files
 
 the AKS068 is an ergonomic alice/arisu style keyboard sold under a few names: ajazz, attack shark, mambasnake... & comes in two flavors, wired & trimode w/ additional bluetooth & 2.4g wireless.
 
 this repo contains __working__ VIA json programming files for both the [wired](https://amzn.to/3WEuj2R) & [pro](https://amzn.to/3WqCIpa) versions of the AKS068 keyboard. _unlike what's on their website._ plus my custom layout.
 
-# preview
+## preview
 
-here's my current layout:
+here's my personal layout:
 
 ![layer 0](keeb-layer0.png)
 ![layer 1](keeb-layer1.png)
